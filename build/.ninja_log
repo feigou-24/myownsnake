@@ -1,0 +1,9 @@
+# ninja log v6
+2	852	7967282589215270	CMakeFiles/myownsnake.dir/src/main.cpp.obj	fc3ec3ac33d15654
+854	1292	7967282597733896	myownsnake.exe	4568f89c4c210dc9
+4	7621	7967318781721107	CMakeFiles/myownsnake.dir/src/main.cpp.obj	fc3ec3ac33d15654
+32	737	7967319539190195	myownsnake.exe	4568f89c4c210dc9
+3	992	7967368344632362	CMakeFiles/myownsnake.dir/src/main.cpp.obj	fc3ec3ac33d15654
+993	1468	7967368354539136	myownsnake.exe	4568f89c4c210dc9
+3	746	7967369633502946	CMakeFiles/myownsnake.dir/src/main.cpp.obj	fc3ec3ac33d15654
+746	1055	7967369640931940	myownsnake.exe	4568f89c4c210dc9

@@ -1,0 +1,3 @@
+D:/game program design/myownsnake/build/CMakeFiles/myownsnake.dir
+D:/game program design/myownsnake/build/CMakeFiles/edit_cache.dir
+D:/game program design/myownsnake/build/CMakeFiles/rebuild_cache.dir
