@@ -7,7 +7,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-f6f22219c74102c3da70.json",
+					"jsonFile" : "directory-.-f6f22219c74102c3da70.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.10"
@@ -20,7 +20,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "",
 			"projects" : 
 			[
 				{
@@ -40,7 +40,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "myownsnake::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-myownsnake-Debug-bc8e97cdcecd07f46e4d.json",
+					"jsonFile" : "target-myownsnake-0a276f1293deafcf3b84.json",
 					"name" : "myownsnake",
 					"projectIndex" : 0
 				}

@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/game program design/myownsnake/build",
-  "command": "C:\\TDM-GCC-64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\myownsnake.dir\\src\\main.cpp.obj -c \"D:\\game program design\\myownsnake\\src\\main.cpp\"",
-  "file": "D:/game program design/myownsnake/src/main.cpp",
-  "output": "D:/game program design/myownsnake/build/CMakeFiles/myownsnake.dir/src/main.cpp.obj"
-}
-]
